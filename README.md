@@ -1,4 +1,4 @@
-# Tableau-viz: Repository for a selected sample of my visualizations hosted here: 
+# Tableau-viz: Repository for a selected sample of my visualizations: 
 https://public.tableau.com/app/profile/nermin8398/vizzes
 
 
